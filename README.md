@@ -1,2 +1,2 @@
-# sciprts
+# scripts
 Powershell Scripts for Windows
